@@ -1,5 +1,6 @@
 
 # Abdallah Atef
+**DevOps Engineer**
 
 ## Contact Information
 
@@ -56,4 +57,52 @@ The network system was for more than a branch over the country and multiple buil
 
 ## Education
 
-### Bachelors in computer and communication Engineering Banha Faculty of Engineering
+**Bachelors in computer and communication Engineering Banha Faculty of Engineering** 2017 - 2021 Good
+- I have studied Algorithms – Data structures – Microcontroller – Microprocessor – Embedded systems – Hardware design – C/C++ – OOP – Operating System – MATLAB – Computer Networking (CCNA) etc...
+- My graduation project was an emulation of a company network, that I have previously mentioned in the projects section (Grade: Excellent).
+
+**Amit Course - Linux administration**
+Form Oct 2020 to Oct 2020
+
+**Abeer Hosni, (CCNA 200 – 301)** online course
+From Oct 2020 to Jan 2021
+
+**Abeer Hosni, MCSA** offline course
+Form May 2022 to Jun 2022
+
+**Nakerah Network, Ethical Hacking,** offline course 
+Form Oct 2022 to Nov 2022
+
+**Fawry company, DevOps** Intern
+Form Oct 2023 to Present
+
+
+## Skills
+
+- Experience with red hat Linux.
+- Troubleshooting network on OS level
+- Python for networking
+- Bash scripting.
+- C / C++ 
+- Java beginner for android 
+- CCNA 200-301
+- AWS
+- Kubernetes
+- Docker
+- Terraform
+- Prometheus
+- Grafana
+
+## Student Activities
+
+**Logistics team member at IEEE - Banha** 2016 - 2021
+- Each summer, I participate in an event to teach Arduino to people from the age of 7 years old to 22.
+- Several small events over the year.
+
+## Soft Skills
+
+- **Participative:** bring energy, passion and hands on approach to work. Flourishing in an environment where I can learn from experience gained in role.
+- **Composed:** Stays calm under pressure and not easily upset by setbacks. I can approach challenging work with positivity and am not easily upset by setbacks.
+- **Multi-tasking:** Able to work across a broad range of tasks without compromising quality of work or outcomes required. 
+- **Deductive Reasoning:** Enjoy solving complex problems, often with insufficient information. I can navigate through ambiguity and maintain commercial objectives of my role.
+- **Focused:** Able to apply high levels of concentration to relevant projects and tasks. Not easily distracted and able to stay focused on the meaningful tasks at hand.
